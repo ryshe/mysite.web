@@ -1,5 +1,3 @@
-# Get Started
-
 ## Prereqs
 
 - node 10+
@@ -12,12 +10,11 @@ _last run with: **node 12.16.1, npm 6.13.7**_
 1. `npm install`
 2. `npm run dev`
 
-3. Ensure **Strapi CMS** is running in order to see content
-   located at: (checkout and follow the readme to run)
+3. Ensure **Strapi CMS** is running in order to see content.  You can check it out from: **git@github.com:ryshe/mysite.cms.git** and follow its readme instructions.
 
 Site runs on [http://localhost:3000](http://localhost:3000)
 
-# Some Context
+## Some Context
 
 Why is the app so basic and meh?
 
@@ -25,7 +22,7 @@ Why is the app so basic and meh?
 - Opportunity to show how I work/think through things.
 - Strapi was chosen as the CMS because it was something I needed to explore anyways for my current job.
 
-# Future
+## Future
 
 - Refactor/Reorganize the code to establish a better foundation.
 - Get to Production Ready so I can launch a site to host my resume info, sample projects, etc. _(make sure to ask me about what production ready means to me)_
